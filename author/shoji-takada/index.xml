@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shoji Takada | Shintaroh Kubo&#39;s homepage</title>
+    <link>/author/shoji-takada/</link>
+      <atom:link href="/author/shoji-takada/index.xml" rel="self" type="application/rss+xml" />
+    <description>Shoji Takada</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Shoji Takada</title>
+      <link>/author/shoji-takada/</link>
+    </image>
+    
+    <item>
+      <title>How cytoplasmic dynein couples ATP hydrolysis cycle to diverse stepping motions: kinetic modeling</title>
+      <link>/publication/kubo-2020-cytoplasmic/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/kubo-2020-cytoplasmic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Molecular dynamics simulation of proton-transfer coupled rotations in ATP synthase FO motor</title>
+      <link>/publication/kubo-2019-molecular/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/kubo-2019-molecular/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Allosteric conformational change cascade in cytoplasmic dynein revealed by structure-based molecular simulations</title>
+      <link>/publication/kubo-2017-allosteric/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/kubo-2017-allosteric/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
