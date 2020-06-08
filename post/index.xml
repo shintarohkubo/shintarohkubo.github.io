@@ -32,16 +32,22 @@
 
 
 
-&lt;figure &gt;
+&lt;figure id=&#34;figure-栄螺堂会津&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/Photo/IMAG0050.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/Photo/IMAG0050.jpg&#34; data-caption=&#34;栄螺堂＠会津&#34;&gt;
 
 
   &lt;img src=&#34;/img/Photo/IMAG0050.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
+  
+  
+  &lt;figcaption&gt;
+    栄螺堂＠会津
+  &lt;/figcaption&gt;
+
 
 &lt;/figure&gt;
 
@@ -60,16 +66,22 @@
 
 
 
-&lt;figure &gt;
+&lt;figure id=&#34;figure-栄螺堂-全景会津&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/Photo/IMAG0058.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/Photo/IMAG0058.jpg&#34; data-caption=&#34;栄螺堂 全景＠会津&#34;&gt;
 
 
   &lt;img src=&#34;/img/Photo/IMAG0058.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
+  
+  
+  &lt;figcaption&gt;
+    栄螺堂 全景＠会津
+  &lt;/figcaption&gt;
+
 
 &lt;/figure&gt;
 
@@ -88,19 +100,26 @@
 
 
 
-&lt;figure &gt;
+&lt;figure id=&#34;figure-唐沢鉱泉長野&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/Photo/IMAG0136.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/Photo/IMAG0136.jpg&#34; data-caption=&#34;唐沢鉱泉@長野&#34;&gt;
 
 
   &lt;img src=&#34;/img/Photo/IMAG0136.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
+  
+  
+  &lt;figcaption&gt;
+    唐沢鉱泉@長野
+  &lt;/figcaption&gt;
+
 
 &lt;/figure&gt;
 
+木造建築。登って、降りるまで交差する事がない。
 
 
 
@@ -116,16 +135,22 @@
 
 
 
-&lt;figure &gt;
+&lt;figure id=&#34;figure-唐沢鉱泉長野&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/Photo/IMAG0157.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/Photo/IMAG0157.jpg&#34; data-caption=&#34;唐沢鉱泉@長野&#34;&gt;
 
 
   &lt;img src=&#34;/img/Photo/IMAG0157.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
+  
+  
+  &lt;figcaption&gt;
+    唐沢鉱泉@長野
+  &lt;/figcaption&gt;
+
 
 &lt;/figure&gt;
 
@@ -144,19 +169,27 @@
 
 
 
-&lt;figure &gt;
+&lt;figure id=&#34;figure-唐沢鉱泉長野&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/Photo/IMAG0158.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/Photo/IMAG0158.jpg&#34; data-caption=&#34;唐沢鉱泉@長野&#34;&gt;
 
 
   &lt;img src=&#34;/img/Photo/IMAG0158.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
+  
+  
+  &lt;figcaption&gt;
+    唐沢鉱泉@長野
+  &lt;/figcaption&gt;
+
 
 &lt;/figure&gt;
 
+トリカブトが自生していた。ここの温泉は冷泉。微炭酸だった気がする。晩ご飯のジビエ鍋は絶品
+日本秘湯の会
 
 
 
@@ -284,16 +317,22 @@
 
 
 
-&lt;figure &gt;
+&lt;figure id=&#34;figure-化野念仏寺京都&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/Photo/IMAG0790.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/Photo/IMAG0790.jpg&#34; data-caption=&#34;化野念仏寺@京都&#34;&gt;
 
 
   &lt;img src=&#34;/img/Photo/IMAG0790.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
+  
+  
+  &lt;figcaption&gt;
+    化野念仏寺@京都
+  &lt;/figcaption&gt;
+
 
 &lt;/figure&gt;
 
@@ -312,16 +351,22 @@
 
 
 
-&lt;figure &gt;
+&lt;figure id=&#34;figure-化野念仏寺京都&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/Photo/IMAG0792.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/Photo/IMAG0792.jpg&#34; data-caption=&#34;化野念仏寺@京都&#34;&gt;
 
 
   &lt;img src=&#34;/img/Photo/IMAG0792.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
+  
+  
+  &lt;figcaption&gt;
+    化野念仏寺@京都
+  &lt;/figcaption&gt;
+
 
 &lt;/figure&gt;
 
@@ -340,16 +385,22 @@
 
 
 
-&lt;figure &gt;
+&lt;figure id=&#34;figure-東尋坊福井&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/Photo/IMAG0125.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/Photo/IMAG0125.jpg&#34; data-caption=&#34;東尋坊@福井&#34;&gt;
 
 
   &lt;img src=&#34;/img/Photo/IMAG0125.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
+  
+  
+  &lt;figcaption&gt;
+    東尋坊@福井
+  &lt;/figcaption&gt;
+
 
 &lt;/figure&gt;
 
@@ -368,16 +419,22 @@
 
 
 
-&lt;figure &gt;
+&lt;figure id=&#34;figure-琵琶湖疎水京都&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/Photo/1522664559830.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/Photo/1522664559830.jpg&#34; data-caption=&#34;琵琶湖疎水@京都&#34;&gt;
 
 
   &lt;img src=&#34;/img/Photo/1522664559830.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
+  
+  
+  &lt;figcaption&gt;
+    琵琶湖疎水@京都
+  &lt;/figcaption&gt;
+
 
 &lt;/figure&gt;
 
@@ -396,15 +453,21 @@
 
 
 
-&lt;figure &gt;
+&lt;figure id=&#34;figure-琵琶湖疎水京都&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/Photo/20180403_103314.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/Photo/20180403_103314.jpg&#34; data-caption=&#34;琵琶湖疎水@京都&#34;&gt;
 
 
   &lt;img src=&#34;/img/Photo/20180403_103314.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
+
+  
+  
+  &lt;figcaption&gt;
+    琵琶湖疎水@京都
+  &lt;/figcaption&gt;
 
 
 &lt;/figure&gt;
