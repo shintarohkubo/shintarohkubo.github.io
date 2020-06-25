@@ -17,11 +17,7 @@
       <link>/publication/kubo-2020-molecular/</link>
       <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
       <guid>/publication/kubo-2020-molecular/</guid>
-      <description>&lt;p&gt;
-&lt;a href=&#34;https://www.nature.com/articles/s41598-020-65004-1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;URL&lt;/a&gt;&lt;/p&gt;
-&lt;h1 id=&#34;abstract&#34;&gt;Abstract&lt;/h1&gt;
-&lt;p&gt;The FO motor in FOF1 ATP synthase rotates its rotor driven by the proton motive force. While earlier studies elucidated basic mechanisms therein, recent advances in high-resolution cryo-electron microscopy enabled to investigate proton-transfer coupled FO rotary dynamics at structural details. Here, taking a hybrid Monte Carlo/molecular dynamics simulation method, we studied reversible dynamics of a yeast mitochondrial FO. We obtained the 36°-stepwise rotations of FO per one proton transfer in the ATP synthesis mode and the proton pumping in the ATP hydrolysis mode. In both modes, the most prominent path alternatively sampled states with two and three deprotonated glutamates in c-ring, by which the c-ring rotates one step. The free energy transduction efficiency in the model FO motor reached ~ 90% in optimal conditions. Moreover, mutations in key glutamate and a highly conserved arginine increased proton leakage and markedly decreased the coupling, in harmony with previous experiments. This study provides a simple framework of simulations for chemical-reaction coupled molecular dynamics calling for further studies in ATP synthase and others.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
   </channel>
