@@ -5,7 +5,7 @@
     <link>/author/wenfei-li/</link>
       <atom:link href="/author/wenfei-li/index.xml" rel="self" type="application/rss+xml" />
     <description>Wenfei Li</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 11 Sep 2017 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Wenfei Li</title>
@@ -15,10 +15,12 @@
     <item>
       <title>Allosteric conformational change cascade in cytoplasmic dynein revealed by structure-based molecular simulations</title>
       <link>/publication/kubo-2017-allosteric/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 11 Sep 2017 00:00:00 +0000</pubDate>
       <guid>/publication/kubo-2017-allosteric/</guid>
       <description>&lt;p&gt;
 &lt;a href=&#34;https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005748&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;URL&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;abstract&#34;&gt;Abstract&lt;/h1&gt;
+&lt;p&gt;Cytoplasmic dynein is a giant ATP-driven molecular motor that proceeds to the minus end of the microtubule (MT). Dynein hydrolyzes ATP in a ring-like structure, containing 6 AAA+ (ATPases associated with diverse cellular activities) modules, which is ~15 nm away from the MT binding domain (MTBD). This architecture implies that long-distance allosteric couplings exist between the AAA+ ring and the MTBD in order for dynein to move on the MT, although little is known about the mechanisms involved. Here, we have performed comprehensive molecular simulations of the dynein motor domain based on pre- and post- power-stroke structural information and in doing so we address the allosteric conformational changes that occur during the power-stroke and recovery-stroke processes. In the power-stroke process, the N-terminal linker movement was the prerequisite to the nucleotide-dependent AAA1 transition, from which a transition cascade propagated, on average, in a circular manner on the AAA+ ring until it reached the AAA6/C-terminal module. The recovery-stroke process was initiated by the transition of the AAA6/C-terminal, from which the transition cascade split into the two directions of the AAA+ ring, occurring both clockwise and anti-clockwise. In both processes, the MTBD conformational change was regulated by the AAA4 module and the AAA5/Strut module.&lt;/p&gt;
 </description>
     </item>
     

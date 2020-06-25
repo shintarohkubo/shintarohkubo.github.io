@@ -5,7 +5,7 @@
     <link>/publication-type/2/</link>
       <atom:link href="/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 19 May 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>2</title>
@@ -13,52 +13,62 @@
     </image>
     
     <item>
-      <title>How cytoplasmic dynein couples ATP hydrolysis cycle to diverse stepping motions: kinetic modeling</title>
-      <link>/publication/kubo-2020-cytoplasmic/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/kubo-2020-cytoplasmic/</guid>
+      <title>Molecular dynamics simulation of proton-transfer coupled rotations in ATP synthase FO motor</title>
+      <link>/publication/kubo-2020-molecular/</link>
+      <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/kubo-2020-molecular/</guid>
       <description>&lt;p&gt;
-&lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S0006349520302617&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;URL&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&#34;https://www.nature.com/articles/s41598-020-65004-1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;URL&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;abstract&#34;&gt;Abstract&lt;/h1&gt;
+&lt;p&gt;The FO motor in FOF1 ATP synthase rotates its rotor driven by the proton motive force. While earlier studies elucidated basic mechanisms therein, recent advances in high-resolution cryo-electron microscopy enabled to investigate proton-transfer coupled FO rotary dynamics at structural details. Here, taking a hybrid Monte Carlo/molecular dynamics simulation method, we studied reversible dynamics of a yeast mitochondrial FO. We obtained the 36°-stepwise rotations of FO per one proton transfer in the ATP synthesis mode and the proton pumping in the ATP hydrolysis mode. In both modes, the most prominent path alternatively sampled states with two and three deprotonated glutamates in c-ring, by which the c-ring rotates one step. The free energy transduction efficiency in the model FO motor reached ~ 90% in optimal conditions. Moreover, mutations in key glutamate and a highly conserved arginine increased proton leakage and markedly decreased the coupling, in harmony with previous experiments. This study provides a simple framework of simulations for chemical-reaction coupled molecular dynamics calling for further studies in ATP synthase and others.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Molecular dynamics simulation of proton-transfer coupled rotations in ATP synthase FO motor</title>
-      <link>/publication/kubo-2020-molecular/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/kubo-2020-molecular/</guid>
+      <title>How cytoplasmic dynein couples ATP hydrolysis cycle to diverse stepping motions: kinetic modeling</title>
+      <link>/publication/kubo-2020-cytoplasmic/</link>
+      <pubDate>Tue, 21 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/kubo-2020-cytoplasmic/</guid>
       <description>&lt;p&gt;
-&lt;a href=&#34;https://www.nature.com/articles/s41598-020-65004-1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;URL&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S0006349520302617&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;URL&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;abstract&#34;&gt;Abstract&lt;/h1&gt;
+&lt;p&gt;Cytoplasmic dynein is a two-headed molecular motor that moves to the minus end of a microtubule by ATP hydrolysis free energy. By employing its two heads (motor domains), cytoplasmic dynein exhibits various bipedal stepping motions: inchworm and hand-over-hand motions, as well as nonalternating steps of one head. However, the molecular basis to achieve such diverse stepping manners remains unclear because of the lack of an experimental method to observe stepping and the ATPase reaction of dynein simultaneously. Here, we propose a kinetic model for bipedal motions of cytoplasmic dynein and perform Gillespie Monte Carlo simulations that qualitatively reproduce most experimental data obtained to date. The model represents the status of each motor domain as five states according to conformation and nucleotide- and microtubule-binding conditions of the domain. In addition, the relative positions of the two domains were approximated by three discrete states. Accompanied by ATP hydrolysis cycles, the model dynein stochastically and processively moved forward in multiple steps via diverse pathways, including inchworm and hand-over-hand motions, similarly to experimental data. The model reproduced key experimental motility-related properties, including velocity and run length, as functions of the ATP concentration and external force, therefore providing a plausible explanation of how dynein achieves various stepping manners with explicit characterization of nucleotide states. Our model highlights the uniqueness of dynein in the coupling of ATPase with its movement during both inchworm and hand-over-hand stepping.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>The inner junction complex of the cilia is an interaction hub that involves tubulin post-translational modifications</title>
       <link>/publication/khalifa-2020-inner/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 17 Jan 2020 00:00:00 +0000</pubDate>
       <guid>/publication/khalifa-2020-inner/</guid>
       <description>&lt;p&gt;
 &lt;a href=&#34;https://elifesciences.org/articles/52760&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;URL&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;abstract&#34;&gt;Abstract&lt;/h1&gt;
+&lt;p&gt;Microtubules are cytoskeletal structures involved in stability, transport and organization in the cell. The building blocks, the α- and β-tubulin heterodimers, form protofilaments that associate laterally into the hollow microtubule. Microtubule also exists as highly stable doublet microtubules in the cilia where stability is needed for ciliary beating and function. The doublet microtubule maintains its stability through interactions at its inner and outer junctions where its A- and B-tubules meet. Here, using cryo-electron microscopy, bioinformatics and mass spectrometry of the doublets of Chlamydomonas reinhardtii and Tetrahymena thermophila, we identified two new inner junction proteins, FAP276 and FAP106, and an inner junction-associated protein, FAP126, thus presenting the complete answer to the inner junction identity and localization. Our structural study of the doublets shows that the inner junction serves as an interaction hub that involves tubulin post-translational modifications. These interactions contribute to the stability of the doublet and hence, normal ciliary motility.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Tubulin lattice in cilia is in a stressed form regulated by microtubule inner proteins</title>
       <link>/publication/ichikawa-2019-tubulin/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
       <guid>/publication/ichikawa-2019-tubulin/</guid>
       <description>&lt;p&gt;
 &lt;a href=&#34;https://www.pnas.org/content/116/40/19930.short?rss=1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;URL&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;abstract&#34;&gt;Abstract&lt;/h1&gt;
+&lt;p&gt;Cilia, the hair-like protrusions that beat at high frequencies to propel a cell or move fluid around are composed of radially bundled doublet microtubules. In this study, we present a near-atomic resolution map of the Tetrahymena doublet microtubule by cryoelectron microscopy. The map demonstrates that the network of microtubule inner proteins weaves into the tubulin lattice and forms an inner sheath. From mass spectrometry data and de novo modeling, we identified Rib43a proteins as the filamentous microtubule inner proteins in the protofilament ribbon region. The Rib43a–tubulin interaction leads to an elongated tubulin dimer distance every 2 dimers. In addition, the tubulin lattice structure with missing microtubule inner proteins (MIPs) by sarkosyl treatment shows significant longitudinal compaction and lateral angle change between protofilaments. These results are evidence that the MIPs directly affect and stabilize the tubulin lattice. It suggests that the doublet microtubule is an intrinsically stressed filament and that this stress could be manipulated in the regulation of ciliary waveforms.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Allosteric conformational change cascade in cytoplasmic dynein revealed by structure-based molecular simulations</title>
       <link>/publication/kubo-2017-allosteric/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 11 Sep 2017 00:00:00 +0000</pubDate>
       <guid>/publication/kubo-2017-allosteric/</guid>
       <description>&lt;p&gt;
 &lt;a href=&#34;https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005748&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;URL&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;abstract&#34;&gt;Abstract&lt;/h1&gt;
+&lt;p&gt;Cytoplasmic dynein is a giant ATP-driven molecular motor that proceeds to the minus end of the microtubule (MT). Dynein hydrolyzes ATP in a ring-like structure, containing 6 AAA+ (ATPases associated with diverse cellular activities) modules, which is ~15 nm away from the MT binding domain (MTBD). This architecture implies that long-distance allosteric couplings exist between the AAA+ ring and the MTBD in order for dynein to move on the MT, although little is known about the mechanisms involved. Here, we have performed comprehensive molecular simulations of the dynein motor domain based on pre- and post- power-stroke structural information and in doing so we address the allosteric conformational changes that occur during the power-stroke and recovery-stroke processes. In the power-stroke process, the N-terminal linker movement was the prerequisite to the nucleotide-dependent AAA1 transition, from which a transition cascade propagated, on average, in a circular manner on the AAA+ ring until it reached the AAA6/C-terminal module. The recovery-stroke process was initiated by the transition of the AAA6/C-terminal, from which the transition cascade split into the two directions of the AAA+ ring, occurring both clockwise and anti-clockwise. In both processes, the MTBD conformational change was regulated by the AAA4 module and the AAA5/Strut module.&lt;/p&gt;
 </description>
     </item>
     
