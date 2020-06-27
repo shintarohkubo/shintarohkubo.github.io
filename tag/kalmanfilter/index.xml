@@ -17,7 +17,8 @@
       <link>/project/kalmanfilter/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       <guid>/project/kalmanfilter/</guid>
-      <description></description>
+      <description>&lt;p&gt;AFM画像にKalman filterを適用する事でAFM画像の時空間差を解消し、分解能を上げる試み。&lt;/p&gt;
+</description>
     </item>
     
   </channel>

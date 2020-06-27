@@ -17,7 +17,9 @@
       <link>/project/fap77/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       <guid>/project/fap77/</guid>
-      <description></description>
+      <description>&lt;p&gt;FAP77はダブレット微小管のA10, A11, A12とB1, B2に広く跨って結合したタンパク質である。
+FAP77の存在価値をMD計算、及び、生化学実験を通して調べていく。&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -25,7 +27,10 @@
       <link>/project/k40/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       <guid>/project/k40/</guid>
-      <description></description>
+      <description>&lt;p&gt;翻訳後修飾は何かと重要。微小管において、古くから注目されていた翻訳後修飾の一つとして、40th LYS(K40)のアセチル化現象が挙げられる。
+このアセチル化によって、微小管構造の安定性(強度)を強めているとも言われているが詳細なメカニズムは未解明であった。
+重要性こそ古くから知られていたものの、あまり研究が進んでいない最たる理由はK40を含むループ領域の構造が未獲得であった事が一因である。&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -33,7 +38,9 @@
       <link>/project/rib43a/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       <guid>/project/rib43a/</guid>
-      <description></description>
+      <description>&lt;p&gt;rib43aはMIPsの一つである。
+rib43aが結合する事でPFの柔軟強度が高まる事がMD計算から確認された。&lt;/p&gt;
+</description>
     </item>
     
   </channel>
