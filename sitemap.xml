@@ -23,12 +23,22 @@
   </url>
   
   <url>
-    <loc>/post/photo/</loc>
+    <loc>/post/travel/japan/</loc>
     <lastmod>2020-06-08T01:49:48+09:00</lastmod>
   </url>
   
   <url>
     <loc>/post/art/</loc>
+    <lastmod>2020-06-07T20:12:29+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/fuga/</loc>
+    <lastmod>2020-06-07T20:12:29+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/hoge/</loc>
     <lastmod>2020-06-07T20:12:29+09:00</lastmod>
   </url>
   
