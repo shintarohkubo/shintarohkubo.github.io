@@ -975,15 +975,21 @@ VIPゾーンはがらがら、中央は隣り合わないだけで激混み。
 
 
 
-&lt;figure &gt;
+&lt;figure id=&#34;figure-キノコのペペロンチーノ&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/post/mcgill/img/20200907_073339_hu9196bb0350fa3a5950653e67fc7465f4_337942_2000x2000_fit_q90_lanczos.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/post/mcgill/img/20200907_073339_hu9196bb0350fa3a5950653e67fc7465f4_337942_2000x2000_fit_q90_lanczos.jpg&#34; data-caption=&#34;キノコのペペロンチーノ&#34;&gt;
 
 
   &lt;img data-src=&#34;/post/mcgill/img/20200907_073339_hu9196bb0350fa3a5950653e67fc7465f4_337942_2000x2000_fit_q90_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;600px&#34; height=&#34;1960&#34;&gt;
 &lt;/a&gt;
 
+
+  
+  
+  &lt;figcaption&gt;
+    キノコのペペロンチーノ
+  &lt;/figcaption&gt;
 
 
 &lt;/figure&gt;
@@ -991,6 +997,50 @@ VIPゾーンはがらがら、中央は隣り合わないだけで激混み。
 作業。そして、寝る。&lt;/p&gt;
 &lt;p&gt;夜はキャベツのうま煮とスパニッシュオムレツ。
 完璧に日本時間で生活しつつある。&lt;/p&gt;
+&lt;p&gt;研究整理用スライドの作成。&lt;/p&gt;
+&lt;h3 id=&#34;9月8日火&#34;&gt;9月8日(火)&lt;/h3&gt;
+&lt;p&gt;朝は最後のトマト・タマネギ・パプリカ・パスタソースを使って、ミートソースの種を作る。
+およそ６割をタッパーに移し、冷蔵保存。残りにバターとパルミジャーノを加えて、ボロネーゼ作成。
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-ボロネーゼ&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;img/20200908_063933&#34; data-caption=&#34;ボロネーゼ&#34;&gt;
+
+
+  &lt;img src=&#34;img/20200908_063933&#34; alt=&#34;&#34; width=&#34;600px&#34; &gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    ボロネーゼ
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+寝る。起きる。昼。珈琲飲む。&lt;/p&gt;
+&lt;p&gt;そろそろいい加減、カナダの研究を進めた方が良いかも。あまりやる気でないけど。
+という訳で、GUIで動かしているらしいアレをコマンドライン で叩く。
+謎のフラグが立ってるけど、それはレガシーなもので今は使われていないらしい。じゃあ消せよ。&lt;/p&gt;
+&lt;p&gt;夜はフライドチキンとキャベツのうま煮、ブロッコリーのペペロンチーノ。&lt;/p&gt;
+&lt;h3 id=&#34;9月9日水&#34;&gt;9月9日(水)&lt;/h3&gt;
 </description>
     </item>
     
