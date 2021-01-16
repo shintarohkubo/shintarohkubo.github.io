@@ -308,3 +308,29 @@ IGA おかし 10.95
 ## 1/5
 eden 醤油とみりんと七味 17.56
 
+## 1/8
+les5saisons さつまいもと惣菜 13.56
+LesBoulangeriesEtPatisserieFornoWest ケーキ 23.20
+
+## 1/9
+ジャンタロン 野菜とアイスシードル 35.0
+
+## 1/11
+MarcheNewon さつまいもと牛肉とエリンギ 18.59
+
+## 1/12
+Dollarama マッシャー 10.33
+Adonis 色々 32.68
+
+## 1/13
+metro アイスと野菜 26.22
+
+## 1/14
+Terrines&Pates テリーヌ2種 9.45
+BoucherieCharacuterieDeTours 鴨肉 14.71
+
+## 1/15
+metro 赤ワインとバルサミコ酢 47.87
+Dollarama 計量カップ 1.73
+
+
