@@ -302,6 +302,9 @@ RestaurantJade 中華 10.00
 ## 1/2
 metro おかし 32.40
 
+## 1/3
+PA 肉 18.19
+
 ## 1/4
 IGA おかし 10.95
 
@@ -333,4 +336,180 @@ BoucherieCharacuterieDeTours 鴨肉 14.71
 metro 赤ワインとバルサミコ酢 47.87
 Dollarama 計量カップ 1.73
 
+## 1/16
+LePetitDep 絵葉書とお菓子 15.59
+RestaurantJade 豆腐煮込みと炒飯と海老フリッター 30.28
+metro 牛乳とヨーグルトと野菜 15.97
+
+## 1/17
+metro 生姜とか 17.49
+
+## 1/19
+PA ヨーグルトと肉 22.56
+
+## 1/20
+Dollarama カレー用ボウル 4.60
+
+## 1/23
+metro 色々 26.11
+
+## 1/24
+metro 色々 16.06
+
+## 1/25
+CanadaPost 葉書二枚送る 5.42
+Les5saisons 総菜 10.88
+LesBoulangeriesEtPatisserie コロネとティラミス 10.95
+metro 牛乳 4.49
+
+## 1/26
+PA 肉と野菜とヨーグルトとコーヒー豆 42.84
+
+## 1/28
+fumagalli パスタ500gを3種 2.97
+PetiteItalie パン 14.75
+ジャンタロン ブロッコリーとニンニク 5.00
+
+## 1/29
+metro 諸々 21.00
+
+## 1/31
+metro 諸々 24.23
+
+## 2/2
+metro 諸々 10.48
+
+## 2/4
+PA 肉と野菜 33.07
+
+## 2/6
+eden 米 22.99
+
+## 2/7
+パン屋 パン 19.25
+
+## 2/8
+metro おやつと生クリーム 23.20
+DOLLARAMA 皿とコップ 6.33
+
+## 2/10
+metro 野菜 32.06
+
+## 2/11
+IGA おやつ 18.41
+eden 素麺 7.98
+
+## 2/12
+DOLLARAMA 本 4.20
+
+## 2/13
+metro ポテト 4.05
+
+## 2/14
+metro アイスと果物 43.73
+
+## 2/15
+BoulangerieLesCo'painsD'abord パン 11.90
+
+## 2/16
+metro 色々 29.94
+
+## 2/17
+PA 色々 30.53
+DOLLARAMA 色々 8.75
+
+## 2/18
+TERRINES&PATES 色々 6.21
+PatricePatissier ケーキ 30.20
+
+## 2/19
+BoulangerieLesCo'painsD'abord パン 12.00
+
+## 2/21
+fumagalli パスタとコーヒー 8.99
+PetiteItalie パン 13.45
+DOLLARAMA マッチとライターと木のサイコロ 3.65
+metro 肉と野菜 32.42
+
+## 2/23
+metro 肉と水 29.71
+
+## 2/24
+DOLLARAMA ヘリコプター 4.78
+FouDici クッキー 9.99
+
+## 2/25
+PA 肉と野菜 32.68
+DOLLARAMA ヘリコプターとHACKY 11.44
+
+## 2/27
+metro アイスと肉 38.26
+DeSerres 粘土 10.34
+
+## 2/28
+PA 野菜 17.78
+CanadianTire フレンチプレス 45.96
+
+## 3/1
+metro 野菜 9.55
+
+## 3/2
+metro ニンニクと生クリーム 6.73
+
+## 3/4
+metro 色々 23.81
+
+## 3/5
+PA 色々 18.32
+Adonis 色々 15.10
+
+## 3/6
+metro 色々 11.47
+
+## 3/7
+BoulangerisLesCo'painsD'abord パン 6.49
+
+## 3/9
+LesBoulangeriesEtPatisserieFornoWest ケーキ 20.10
+les5saisons 総菜 17.99
+
+## 3/10
+PA 肉と野菜 38.74
+DOLLARAMA 爪楊枝 1.43
+
+## 3/13
+metro おやつ 30.16
+
+## 3/14
+metro ブロッコリーとピザ 18.91
+
+## 3/18
+PA 肉と野菜 38.12
+
+## 3/19
+metro トイレットペーパーとヨーグルト 43.81
+
+## 3/20
+metro ハーゲンダッツ 18.46
+
+## 3/22
+metro いちごとか 30.02
+
+## 3/24
+FouD'CIC チョコレート 12.00
+
+## 3/25
+metro ヨーグルト 25.01
+
+## 3/26
+UNIQURO ズボン4着 108.0
+
+## 3/27
+metro ヨーグルト 14.12
+
+## 3/29
+metro 肉と野菜とアイス 38.74
+
+## 3/31
+metro 肉と野菜 22.03
 
