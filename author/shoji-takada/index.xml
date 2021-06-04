@@ -5,12 +5,20 @@
     <link>/author/shoji-takada/</link>
       <atom:link href="/author/shoji-takada/index.xml" rel="self" type="application/rss+xml" />
     <description>Shoji Takada</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Shoji Takada</title>
       <link>/author/shoji-takada/</link>
     </image>
+    
+    <item>
+      <title>Role of bacterial RNA polymerase gate opening dynamics in DNA loading and antibiotics inhibition elucidated by quasi-Markov State Model</title>
+      <link>/publication/unarta-2021-role/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/unarta-2021-role/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>How cytoplasmic dynein couples ATP hydrolysis cycle to diverse stepping motions: kinetic modeling</title>
