@@ -9,7 +9,7 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2021-06-04T16:14:39-04:00</lastmod>
+    <lastmod>2021-06-04T19:39:28-04:00</lastmod>
   </url>
   
   <url>
@@ -19,17 +19,32 @@
   
   <url>
     <loc>/publication-type/2/</loc>
-    <lastmod>2021-06-04T16:14:39-04:00</lastmod>
+    <lastmod>2021-06-04T19:39:28-04:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/</loc>
-    <lastmod>2021-06-04T16:14:39-04:00</lastmod>
+    <lastmod>2021-06-04T19:39:28-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/mitome-2021-cooperation/</loc>
+    <lastmod>2021-06-04T19:39:28-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/hikaru-takashima/</loc>
+    <lastmod>2021-06-04T19:39:28-04:00</lastmod>
   </url>
   
   <url>
     <loc>/author/ilona-christy-unarta/</loc>
     <lastmod>2021-06-04T16:14:39-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/noriyo-mitome/</loc>
+    <lastmod>2021-06-04T19:39:28-04:00</lastmod>
   </url>
   
   <url>
@@ -39,12 +54,12 @@
   
   <url>
     <loc>/publication_types/</loc>
-    <lastmod>2021-06-04T16:14:39-04:00</lastmod>
+    <lastmod>2021-06-04T19:39:28-04:00</lastmod>
   </url>
   
   <url>
     <loc>/publication/</loc>
-    <lastmod>2021-06-04T16:14:39-04:00</lastmod>
+    <lastmod>2021-06-04T19:39:28-04:00</lastmod>
   </url>
   
   <url>
@@ -54,17 +69,27 @@
   
   <url>
     <loc>/author/shintaroh-kubo/</loc>
-    <lastmod>2021-06-04T16:14:39-04:00</lastmod>
+    <lastmod>2021-06-04T19:39:28-04:00</lastmod>
   </url>
   
   <url>
     <loc>/author/shoji-takada/</loc>
-    <lastmod>2021-06-04T16:14:39-04:00</lastmod>
+    <lastmod>2021-06-04T19:39:28-04:00</lastmod>
   </url>
   
   <url>
     <loc>/author/siqin-cao/</loc>
     <lastmod>2021-06-04T16:14:39-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/sumie-ohta/</loc>
+    <lastmod>2021-06-04T19:39:28-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/toru-niina/</loc>
+    <lastmod>2021-06-04T19:39:28-04:00</lastmod>
   </url>
   
   <url>
@@ -80,6 +105,11 @@
   <url>
     <loc>/author/xuhui-huang/</loc>
     <lastmod>2021-06-04T16:14:39-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/yuto-shigefuji/</loc>
+    <lastmod>2021-06-04T19:39:28-04:00</lastmod>
   </url>
   
   <url>
@@ -128,18 +158,28 @@
   </url>
   
   <url>
+    <loc>/author/corbin-black/</loc>
+    <lastmod>2021-06-04T19:39:28-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/author/corbin-steven-black/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/author/daniel-dai/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+    <lastmod>2021-06-04T19:39:28-04:00</lastmod>
   </url>
   
   <url>
     <loc>/publication/kubo-2020-cytoplasmic/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/jacek-gaertig/</loc>
+    <lastmod>2021-06-04T19:39:28-04:00</lastmod>
   </url>
   
   <url>
@@ -158,18 +198,33 @@
   </url>
   
   <url>
+    <loc>/author/khanh-huy-bui/</loc>
+    <lastmod>2021-06-04T19:39:28-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/melissa-valente/</loc>
+    <lastmod>2021-06-04T19:39:28-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/publication/kubo-2020-molecular/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/author/muneyoshi-ichikawa/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+    <lastmod>2021-06-04T19:39:28-04:00</lastmod>
   </url>
   
   <url>
     <loc>/author/noriyuki-kodera/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/kubo-2020-remodeling/</loc>
+    <lastmod>2021-06-04T19:39:28-04:00</lastmod>
   </url>
   
   <url>
@@ -179,7 +234,7 @@
   
   <url>
     <loc>/author/shun-kai-yang/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+    <lastmod>2021-06-04T19:39:28-04:00</lastmod>
   </url>
   
   <url>
@@ -208,17 +263,7 @@
   </url>
   
   <url>
-    <loc>/author/toru-niina/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/author/kaustuv-basu/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/khanh-huy-bui/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
